@@ -1,5 +1,7 @@
-PATH
-  remote: ../ProMotion
+GIT
+  remote: git://github.com/clearsightstudio/ProMotion.git
+  revision: 3c0837706b11c34e5d91c7f1d93334f53b50f2a0
+  branch: version-0.7
   specs:
     ProMotion (0.6.1)
 
